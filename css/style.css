@@ -104,10 +104,9 @@ p {
 .btn {
   display: inline-block;
   padding: 15px 30px;
-  border: 2px solid #fff;
-  text-transform: uppercase;
+  border: 1px solid #fff;
   letter-spacing: 0.015em;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 1;
   color: #fff;
