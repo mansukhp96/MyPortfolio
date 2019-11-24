@@ -103,8 +103,8 @@ p {
 }
 .btn {
   display: inline-block;
-  padding: 15px 30px;
-  border: 1px solid #fff;
+  padding: 10px 20px;
+  border: 2px solid #fff;
   letter-spacing: 0.015em;
   font-size: 14px;
   font-weight: 700;
