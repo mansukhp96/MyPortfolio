@@ -39,7 +39,7 @@
     $('#to-top').click(function() {
         $('html, body').animate({
             scrollTop: 0
-        }, 500);
+        }, 400);
     });
 
     // Scroll to first element
@@ -47,7 +47,7 @@
         var scrollDistance = $('#lead').next().offset().top;
         $('html, body').animate({
             scrollTop: scrollDistance + 'px'
-        }, 500);
+        }, 400);
     });
 
     // Create timeline
