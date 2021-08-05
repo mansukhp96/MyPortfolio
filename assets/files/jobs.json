@@ -1,0 +1,36 @@
+{
+    "jobs": [
+        {
+            "company": "Wells Fargo Solutions, Bangalore",
+            "role": "Software Developer Intern",
+            "body": [
+                "This was my first taste of professional experience. I spent 6 months working on a Machine learning based stock analysis application.",
+                "My job was to clean and prepare Terabytes worth of live stock data for analysis, run the data through the analysis, load the resulting data into EleasticSearch and generate visualiztions using Kibana.",
+                "I was offered a full-time role which I accepted."
+            ],
+            "date": "January 2017 – June 2017"
+        },
+        {
+            "company": "Wells Fargo Solutions, Bangalore",
+            "role": "Application programmer",
+            "body": [
+                "Worked with a team of 5 on a Java based web application named Image File Import.",
+                "Developed a module for the internal web application using Java, Javascript, HTML, CSS, and MySQL to allow Adhoc requests to be processed by users for generation or deletion of certificates. This helped save over 2 man hours every day required to reprocess failed cases and testfunctionality.",
+                "Provided support for the application, working with offshore teams to solve real time issues and handle monthly releases."
+            ],
+            "date": "July 2017 – July 2018"
+        },
+        {
+            "company": "Fidelity Investments, Boston MA",
+            "role": "Software Engineer Co-op",
+            "body": [
+                "Designed, developed, and scaled a full-stack application using Angular, Java, PostgreSQL, Hibernate, AWS EC2.",
+                "Front-end work was done purely in Angular, while development of a RESTful API wsas done using Spring Hibernate integrated with a PostgreSQL database.",
+                "Worked on an internal API and wrote Java code to monitor API health, added endpoints, and performed unit testing.",
+                "Designed an admin console using Angular to publish custom index models, monitor data usage, and control accesses",
+                "Played key role in automating deployment of API and UI code to EC2 instances and daily data flow from S3 to Redis"
+            ],
+            "date": "June 2019 – December 2019"
+        }        
+    ]
+}

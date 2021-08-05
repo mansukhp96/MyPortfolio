@@ -1,0 +1,24 @@
+{
+    "education": [
+        {
+            "university": "M S Ramaiah Institute of Technology, Bangalore - India",
+            "date":"Aug 2013 - Aug 2017",
+            "body": [
+                "Year 1 : Data Structures, Operating Systems, Networking",
+                "Year 2 : Algorithms, Object Oriented programming in Java, Relational Database management",
+                "Year 3 : Artifical Intelligence, Web development, Computer Security",
+                "Year 4 : Principles of Software Engineering, Relational Database management, Compiler design"
+            ],
+            "course": "Bachelor of Science in Computer Science and Engineering"
+        },
+        {
+            "university": "Northeastern University, Boston MA",
+            "date":"Aug 2018 - Dec 2020",
+            "body": [
+                "Year 1 : Programming Design Paradignms, Database Management and design, Web development, Data visualization",
+                "Year 2 : Algorithms, Building Scalable Distributed Systems, Foundations of Software Engineering, Information retreival"
+            ],
+            "course": "Master of Science in Computer Science"
+        }
+    ]
+}
